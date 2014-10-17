@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[stl:home|Door43 (stl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-stl|d43-stl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-stl/archive/master.zip|d43-stl.zip]]
+
+**Recent Changes**
+{{changes>ns = stl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/stl|Ethnologue data]]
+
